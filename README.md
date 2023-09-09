@@ -1,0 +1,1 @@
+Sol - iTerm2
